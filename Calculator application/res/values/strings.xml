@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+    <string name="quitbtn">QUIT</string>
+    <string name="resetbtn">RESET</string>
+    <string name="GotoButton">GoToCalculator</string>
+    <string name="Result">Result : </string>
+    <string name="quit">QUIT</string>
+    <string name="reset">RESET</string>
+
+</resources>

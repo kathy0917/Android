@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/CalHome"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    >
+
+    <Button
+        android:id="@+id/Goto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/GotoButton"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:background="@android:color/white"
+        android:layout_margin="20dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        />
+
+    <TextView
+        android:id="@+id/Res"
+        android:background="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Result"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:paddingLeft="10dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        />
+
+</LinearLayout>
+
+
+
